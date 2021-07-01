@@ -1,0 +1,12 @@
+﻿[UPGRADE_FILE]
+Name = 
+Version = 
+Level = High
+Model = 
+
+[Hotfix]
+Download = UPDATEFW_LiveUpdate_1.0.2103.2901.zip
+Filename = UPDATEFW.exe
+Version = 0010
+Model = 
+
